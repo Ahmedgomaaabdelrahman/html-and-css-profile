@@ -1,0 +1,17 @@
+theme link
+https://www.graphberry.com/item/leon-psd-agency-template
+
+notes and code
+https://elzero.org/html-css-practice-template-one/
+
+theme live demo from el zero
+https://elzerowebschool.github.io/HTML_And_CSS_Template_One/
+
+
+
+Comments: 
+=========
+- using normalize to adjust the design and render the desing in noraml way in all browser
+- using google font to add required fonts.
+- using font awesome icons by adding all.min.css and webfonts folder beside css folder.
+- using container element to aligment all elements at the same line 
